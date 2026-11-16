@@ -18,21 +18,13 @@ I enjoy exploring Machine Learning, Deep Learning, Generative AI and Large Langu
 
 
 
-🛠️ Tech Stack
-
-Programming Languages
+🛠️ Tech skills
 
 Python | Java | C | SQL
 
-AI / Machine Learning
-
 Machine Learning | Deep Learning | NLP | Computer Vision | TensorFlow | Scikit-learn | OpenCV
 
-Generative AI
-
 LLMs | RAG | LangChain | Prompt Engineering | AI Agents
-
-Tools & Technologies
 
 Git | GitHub | VS Code | Streamlit | Flask | Jupyter Notebook
 

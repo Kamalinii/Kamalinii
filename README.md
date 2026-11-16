@@ -16,7 +16,7 @@ I enjoy exploring Machine Learning, Deep Learning, Generative AI and Large Langu
 
 📚 Always learning, experimenting and improving my technical skills.
 
-.
+
 
 🛠️ Tech Stack
 
@@ -39,9 +39,7 @@ Git | GitHub | VS Code | Streamlit | Flask | Jupyter Notebook
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-<img src="https://skillicons.dev/icons?i=langchain" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,i=langchain" />
 🤝 Let's Connect
 
 I'm always interested in connecting with developers, exploring new technologies and collaborating on AI/ML projects.

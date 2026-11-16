@@ -39,6 +39,6 @@ LinkedIn: https://www.linkedin.com/in/kamalini-m
 
 Email: kamalinimallaiahgari005@gmail.com
 
-GitHub: Kamalinii
+GitHub: https://github.com/Kamalinii/
 
 ⭐ Building, learning and innovating with AI — 
